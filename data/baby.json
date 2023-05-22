@@ -1,0 +1,34 @@
+{"disease": "병원성 폐렴", "symptom": ["가래", "가슴 통증", "근육통", "기침", "열", "오한"], "medical_department": ["호흡기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "위장염", "symptom": ["구토", "두통", "복부 통증", "복부팽만감", "설사", "열", "탈수"], "medical_department": ["가정의학과", "노년내과", "소아내분비대사과", "소아소화기영양과", "소아신장과", "소아외과", "소아천식아토피센터", "소화기내과"],"image": "assets/img/간.jpg"}
+{"disease": "결장염", "symptom": ["구토", "기민상태", "무호흡", "복부팽만감", "서맥", "설사", "신경과민", "저체온", "혈변"], "medical_department": ["산부인과", "소아외과", "신생아과"], "image": "assets/img/폐렴.png"}
+{"disease": "원인미상의 열", "symptom": ["구토", "근육통", "발진", "열", "오심", "오한"], "medical_department": ["가정의학과", "감염내과"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 기관지염", "symptom": ["가래", "기침", "천명음", "호흡곤란"], "medical_department": ["소아중환자과", "소아천식아토피센터", "이비인후과", "호흡기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 편도염", "symptom": ["목의 통증", "삼키기 곤란", "열", "편도선 비대"], "medical_department": ["이비인후과"], "image": "assets/img/폐렴.png"}
+{"disease": "신생아 괴사성 장염", "symptom": ["구토", "기민상태", "무호흡", "복부팽만감", "서맥", "설사", "신경과민", "저체온", "혈변"], "medical_department": ["산부인과", "소아외과", "신생아과"], "image": "assets/img/폐렴.png"}
+{"disease": "바이러스성 장염", "symptom": ["구토", "기침", "설사", "열", "콧물", "탈수"], "medical_department": ["가정의학과", "노년내과", "소아감염과", "소아소화기영양과", "소아신장과", "소아중환자과", "소아천식아토피센터", "소화기내과", "신생아과"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 위장염", "symptom": ["구토", "두통", "복부 통증", "복부팽만감", "설사", "열", "탈수"], "medical_department": ["가정의학과", "노년내과", "소아내분비대사과", "소아소화기영양과", "소아신장과", "소아외과", "소아천식아토피센터", "소화기내과"], "image": "assets/img/간.jpg"}
+{"disease": "신생아황달", "symptom": ["놀람반사의 약화", "황달"], "medical_department": ["신생아과", "어린이병원"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 인두염", "symptom": ["기침", "목소리 변화", "목의 이물감", "목의 통증", "삼키기 곤란"], "medical_department": ["이비인후과"], "image": "assets/img/폐렴.png"}
+{"disease": "RS바이러스 감염증(RS virus infection)", "symptom": ["가래", "기침", "빈호흡", "열", "청색증", "코막힘", "콧물"], "medical_department": ["감염내과"], "image": "assets/img/폐렴.png"}
+{"disease": "신생아의 호흡곤란", "symptom": ["청색증", "함몰가슴", "호흡곤란"], "medical_department": ["소아재활의학과", "신생아과", "어린이병원"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 세기관지염", "symptom": ["구토", "기침", "보챔", "빠른 호흡", "식욕감소", "열", "천명", "코막힘", "콧물"], "medical_department": ["소아청소년과", "호흡기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "신생아 경련", "symptom": ["근육긴장", "눈꺼풀의 떨림", "무호흡", "불규칙호흡"], "medical_department": ["소아신경과", "어린이병원"], "image": "assets/img/폐렴.png"}
+{"disease": "폐렴", "symptom": ["가래", "가슴 통증", "기침", "두통", "열", "오한", "피로감", "호흡곤란", "흉수"], "medical_department": ["노년내과", "소아천식아토피센터", "호흡기내과"],"image": "assets/img/폐렴.png"}
+{"disease": "상기도감염", "symptom": ["기침", "두통", "목의 통증", "열", "재채기", "코막힘", "콧물", "피로감"], "medical_department": ["알레르기내과"],"image": "assets/img/상기도 감염.png"}
+{"disease": "후두개염", "symptom": ["목소리 변화", "사망", "열", "청색증", "호흡곤란"], "medical_department": ["감염내과", "이비인후과", "호흡기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "사구체신염", "symptom": ["단백뇨", "전신 부종", "혈뇨"], "medical_department": ["소아신장과", "신장내과"], "image": "assets/img/폐렴.png"}
+{"disease": "탈장", "symptom": ["복부팽만감", "탈장", "탈장 돌출", "탈장 부위의 통증"], "medical_department": ["소아외과", "위장관외과"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 후두염", "symptom": ["기침", "목소리 변화", "목의 이물감", "목의 통증", "삼키기 곤란"], "medical_department": ["이비인후과"], "image": "assets/img/폐렴.png"}
+{"disease": "천식", "symptom": ["가래", "가슴 답답", "기침", "천명음", "호흡곤란"], "medical_department": ["소아천식아토피센터", "알레르기내과", "호흡기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "선천성 심장 질환", "symptom": ["급성 신부전", "발육부전", "수유 곤란", "운동 시 호흡곤란", "청색증", "피로감", "호흡곤란"], "medical_department": ["선천성심장병센터", "심장내과", "심장병원"], "image": "assets/img/폐렴.png"}
+{"disease": "염좌", "symptom": ["관절 불안정증", "관절 운동성 감소", "관절통", "발의 통증", "손상 부위 통증"], "medical_department": ["정형외과"], "image": "assets/img/폐렴.png"}
+{"disease": "결절성 다발동맥염", "symptom": ["관절통", "근육통", "말초 신경장애", "열", "자반증", "피로감"], "medical_department": ["류마티스내과", "심장병원", "혈관외과"], "image": "assets/img/폐렴.png"}
+{"disease": "화농성 중이염", "symptom": ["고름", "귀의 통증", "두통", "열", "이명", "이폐색감", "청력장애", "환부의 분비물"], "medical_department": ["이비인후과"], "image": "assets/img/화농성 중이염.png"}
+{"disease": "장폐색", "symptom": ["구토", "변비", "복부 통증", "복부팽만감", "빈맥", "설사", "장폐색", "저혈압", "탈수"], "medical_department": ["대장항문외과", "소아외과", "소화기내과"], "image": "assets/img/폐렴.png"}
+{"disease": "사시", "symptom": ["구토", "눈부심", "눈운동신경마비", "눈의 피로", "두통", "복시", "사시", "시력 감소", "증상의 일중변동"], "medical_department": ["소아안과", "안과"],"image": "assets/img/사시.png"}
+{"disease": "아미노산 대사장애", "symptom": ["경련", "구토", "습진", "정신 지체"], "medical_department": ["소아내분비대사과", "의학유전학과", "의학유전학센터"], "image": "assets/img/폐렴.png"}
+{"disease": "급성 부비동염", "symptom": ["구토", "권태감", "기침", "눈 주변 부종", "두통", "목의 통증", "보챔", "열", "오심", "축 늘어짐", "코막힘", "콧물", "환부 통증", "후각장애"], "medical_department": ["알레르기내과", "이비인후과", "호흡기내과"],"image": "assets/img/급성 부비동염.png"}
+{"disease": "쇄골 골절", "symptom": ["손상 부위 통증", "팔의 통증", "환부 부종"], "medical_department": ["정형외과"], "image": "assets/img/폐렴.png"}
+{"disease": "두드러기", "symptom": ["두드러기", "발진", "피부소양감"], "medical_department": ["소아천식아토피센터", "알레르기내과", "피부과"], "image": "assets/img/폐렴.png"}
+{"disease": "신생아흡인증후군", "symptom": ["근긴장의 이상", "빈호흡", "서맥", "저산소증", "청색증", "호흡곤란"], "medical_department": ["신생아과"], "image": "assets/img/폐렴.png"}
+{"disease": "돌발성 발진", "symptom": ["반점", "발진", "보챔", "식욕부진"], "medical_department": ["소아감염과", "소아내분비대사과", "소아소화기영양과"], "image": "assets/img/폐렴.png"}
